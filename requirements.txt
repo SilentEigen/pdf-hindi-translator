@@ -1,0 +1,6 @@
+pymupdf
+reportlab
+google-generativeai
+pytesseract
+pdf2image
+pillow
