@@ -9,8 +9,7 @@
         "downloads"
     ],
     "host_permissions": [
-        "http://localhost:5000/*",
-        "<all_urls>"
+        "https://pdf-hindi-translator-production.up.railway.app/*"
     ],
     "action": {
         "default_popup": "popup.html",
